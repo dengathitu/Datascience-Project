@@ -22,11 +22,11 @@ The dataset includes various workplace factors such as:
 3. **What factors contribute to high turnover rates?**  
    - Helps in reducing turnover by addressing workplace issues and improving job satisfaction.
 
-4. **Is there a relationship between employee training and mental health scores?**  
-   - Determines if training programs improve employee well-being.
+4. **How does access to Employee Assistance Programs (EAPs) impact burnout levels?**  
+   - Determines if EAPs improve employee well-being.
 
-5. **How do age and job roles affect mental health scores?**  
-   - Examines whether certain job roles or age groups are more vulnerable to poor mental health.
+5. **Do employees experiencing high stress levels have a higher turnover intention?**  
+   - Examines whether with high stress levels tend to quit
 
 ## Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
